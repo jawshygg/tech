@@ -17,7 +17,7 @@ IFS=$'\n\t'
 
 # default config
 defaultConfigFile="apaxy.config"
-defaultApacheWebRootPath="/home/site/wwwroot/share"
+defaultApacheWebRootPath="/home/site/wwwroot"
 defaultInstallWebPath=""
 defaultEnableGallery=false
 defaultHeaderMessage=""
