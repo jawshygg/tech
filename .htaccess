@@ -37,7 +37,7 @@ IndexOptions +Charset=UTF-8 +FancyIndexing +FoldersFirst +HTMLTable +IconsAreLin
 
 # favicon & meta viewport
 IndexHeadInsert "\
-        <link rel=\"shortcut icon\" href=\"{FOLDERNAME}/theme/favicon.ico\" />\
+        <link rel=\"shortcut icon\" href=\"{}/theme/favicon.ico\" />\
         <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />"
 
 # hide ".htaccess" file and "/theme" directory
